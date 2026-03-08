@@ -1,4 +1,5 @@
-# Hey there! 👋 I'm FAYEZ087
+# Hey there! 👋 I'm FAYEZ AHMAD
+    But everyone calls me ## FAIZ
 
 Welcome to my GitHub profile! I'm a passionate **ML & Web Developer** focused on building intelligent solutions at the intersection of AI/ML and web technologies.
 
