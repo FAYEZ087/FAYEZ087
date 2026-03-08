@@ -1,5 +1,4 @@
 # Hey there! 👋 I'm FAYEZ AHMAD
-   But everyone calls me  FAIZ
    
 Welcome to my GitHub profile! I'm a passionate **ML & Web Developer** focused on building intelligent solutions at the intersection of AI/ML and web technologies.
 
@@ -26,6 +25,7 @@ I'm a driven developer with a strong foundation in **Machine Learning** and **We
 
 ### Campus Link
 *Building connections and solving campus community challenges*
+- A video chat platform fully verified with student's college email
 - Combines web development with practical problem-solving
 - Showcases full-stack development capabilities
 
@@ -60,4 +60,4 @@ Feel free to reach out for collaboration, internship discussions, or just to cha
 ---
 
 *Open to internships and exciting opportunities* 🌟  
-*Last updated: 2026-03-08*
+*Last updated: 2026-03-09*
