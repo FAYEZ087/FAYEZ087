@@ -23,7 +23,7 @@ I'm a driven developer with a strong foundation in **Machine Learning** and **We
 
 ## 📊 Featured Projects
 
-### Campus Link
+### Hallway Chat
 *Building connections and solving campus community challenges*
 - A video chat platform fully verified with student's college email
 - Combines web development with practical problem-solving
