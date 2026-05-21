@@ -1,6 +1,6 @@
-# Hey there! 👋 I'm Fayez Ahmad
+# Hey there! 👋 I'm Fayez 
 
-I build **ML projects** and **modern web apps** — currently focused on practical products for students.
+I am a Computer Science **(AI & ML)** Student. I build **ML projects** and **modern web apps** — currently focused on practical products for students and myself.
 
 ## ⭐ Featured Projects
 
