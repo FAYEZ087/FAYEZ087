@@ -1,63 +1,40 @@
-# Hey there! 👋 I'm FAYEZ AHMAD
-   
-Welcome to my GitHub profile! I'm a passionate **ML & Web Developer** focused on building intelligent solutions at the intersection of AI/ML and web technologies.
+# Hey there! 👋 I'm Fayez Ahmad
 
-## 🚀 About Me
+I build **ML projects** and **modern web apps** — currently focused on practical products for students.
 
-I'm a driven developer with a strong foundation in **Machine Learning** and **Web Development**. I love tackling complex problems, experimenting with cutting-edge AI/ML models, and creating elegant web experiences. Always eager to learn, collaborate, and push the boundaries of what's possible.
+## ⭐ Featured Projects
 
-## 💻 Tech Stack
+| Project | What it is | Stack | Links |
+|---|---|---|---|
+| **Hallway** | Verified 1-on-1 video chat for college students (India) | Next.js, React, TypeScript, Supabase, WebRTC/Socket.io | [Repo](https://github.com/FAYEZ087/Hallway-Chat) · [Live](https://hallwaychat.online) · [Server](https://github.com/FAYEZ087/campuslink-server) |
+| **BunkCalc (App)** | Offline-first attendance tracker (Android via Capacitor) | React, TypeScript, Vite, Tailwind, Capacitor | [Repo](https://github.com/FAYEZ087/BunkCalc_App) |
+| **BunkCalc (Web)** | Marketing site + APK download landing page | React, TypeScript, Vite, Tailwind | [Repo](https://github.com/FAYEZ087/BunkCalc_Web) |
+| **Salary Prediction** | ML model + Streamlit app for salary prediction | Python, Streamlit, scikit-learn | [Repo](https://github.com/FAYEZ087/salary_prediction_project) |
+| **WebDevGuru** | High-end agency site with 3D + animation | React, TypeScript, Three.js, Framer Motion | [Repo](https://github.com/FAYEZ087/WebDevGuru) |
 
-- **Machine Learning & AI**: Python, TensorFlow, scikit-learn, Data Analysis
-- **Web Development**: Python, JavaScript, CSS, React
-- **Programming Languages**: Python, C, C++
-- **Tools & Platforms**: Git, GitHub, Jupyter Notebook, VS Code
+## 🧰 Tech
 
-## 🌟 Highlights
+- **ML / Data**: Python, scikit-learn, TensorFlow, data analysis
+- **Web**: TypeScript, React, Next.js, Node.js, Tailwind
+- **Tools**: Git/GitHub, VS Code, Jupyter
 
-- 🤖 Passionate about **AI/ML** and building intelligent applications
-- 🌐 Full-stack web development with modern frameworks
-- 🔨 Campus projects demonstrating real-world problem-solving
-- 🤝 Active open-source contributor and community enthusiast
-- 💡 Clean code advocate with a focus on performance optimization
+## 📌 More Repos
 
-## 📊 Featured Projects
+- Portfolios: [Personal-portfolio](https://github.com/FAYEZ087/Personal-portfolio) · [PORTFOLIO](https://github.com/FAYEZ087/PORTFOLIO)
+- UI/experiments: [MidnightCampus](https://github.com/FAYEZ087/MidnightCampus)
+- Basics: [beginner_projects](https://github.com/FAYEZ087/beginner_projects) · [project01](https://github.com/FAYEZ087/project01) · [hospital-management-system-test-](https://github.com/FAYEZ087/hospital-management-system-test-)
+- Resume: [resume](https://github.com/FAYEZ087/resume)
 
-### Hallway Chat
-*Building connections and solving campus community challenges*
-- A video chat platform fully verified with student's college email
-- Combines web development with practical problem-solving
-- Showcases full-stack development capabilities
+## 📫 Let’s Connect
 
-## 🎯 Current Focus
+- X: [@fayez_ahmad499](https://x.com/fayez_ahmad499)
+- LinkedIn: [Fayez Ahmad](https://www.linkedin.com/in/fayez-ahmad-624619333/)
+- Email: `fayezahwork827@gmail.com`
 
-- 🤖 Advancing **Machine Learning** skills and exploring deep learning applications
-- 🌐 Creating **responsive web applications** with modern tech stacks
-- 📚 Contributing to meaningful open-source projects
-- 🚀 Building portfolios that demonstrate ML + Web Dev integration
+## 💼 Open to Opportunities
+
+I’m actively looking for **internship opportunities** in **ML/AI**, **web development**, **data science**, or **research + engineering** roles.
 
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FAYEZ087&show_icons=true&theme=radical)
-
-## 💼 Open to Opportunities
-
-I'm actively seeking **internship opportunities** in:
-- 🤖 Machine Learning & AI
-- 🌐 Web Development
-- 📊 Data Science
-- 🔬 Research roles combining ML and software engineering
-
-## 📫 Let's Connect!
-
-- **Twitter/X**: [@fayez_ahmad499](https://x.com/fayez_ahmad499)
-- **LinkedIn**: [Fayez Ahmad](https://www.linkedin.com/in/fayez-ahmad-624619333/)
-- **Email**: fayezahwork827@gmail.com
-- **GitHub**: [@FAYEZ087](https://github.com/FAYEZ087)
-
-Feel free to reach out for collaboration, internship discussions, or just to chat about ML & web dev! 🤝
-
----
-
-*Open to internships and exciting opportunities* 🌟  
-*Last updated: 2026-03-09*
