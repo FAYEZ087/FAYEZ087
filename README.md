@@ -31,6 +31,10 @@ I build **ML projects** and **modern web apps** — currently focused on practic
 - LinkedIn: [Fayez Ahmad](https://www.linkedin.com/in/fayez-ahmad-624619333/)
 - Email: `fayezahwork827@gmail.com`
 
+## 💼 Open to Opportunities
+
+I’m actively looking for **internship opportunities** in **ML/AI**, **web development**, **data science**, or **research + engineering** roles.
+
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FAYEZ087&show_icons=true&theme=radical)
