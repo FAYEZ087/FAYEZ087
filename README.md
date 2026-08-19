@@ -5,7 +5,7 @@ I am a Computer Science **(AI & ML)** Student. I build **ML projects** and **mod
 
 ## 🧰 Tech
 
-- **ML / Data**: Python, scikit-learn, TensorFlow, data analysis
+- **ML / Data**: Python, scikit-learn, data analysis
 - **Web**: TypeScript, React, Next.js, Node.js, Tailwind
 - **Tools**: Git/GitHub, VS Code, Jupyter
 
